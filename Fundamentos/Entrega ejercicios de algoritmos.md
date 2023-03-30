@@ -6,4 +6,4 @@
 
 **Fecha:** 30 de marzo de 2023
 
-**Enlace:** [Ejercicios de algoritmos](https://github.com/Mon-MCS/CloudComputingDesarrollo/blob/main/Fundamentos/Ejercicios%20con%20algoritmos.md)
+**Enlace:** [Ejercicios de algoritmos](https://github.com/Mon-MCS/CloudComputingDesarrollo/blob/main/Fundamentos/MonserratCabreraSanchez.md)
