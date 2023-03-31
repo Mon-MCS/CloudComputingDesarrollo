@@ -107,17 +107,18 @@ Escribir(``salarioBruto``,``salarioNeto``)
 **Paso 3**: Escribir el pseudocódigo
 
 ```
-Algoritmo CalculoDNI
+Algoritmo Nominas
 	# Entrada
 	salarioBase <- Leer()
 	pagasExtras <- Leer()
 	complementos <- Leer()
-	otrosconceptosRetributivos <- Leer()
+	otrosConceptosRetributivos <- Leer()
 	IRP <- Leer()
 	SaguridadSocial <- Leer()
 	# Proceso
-	salarioBruto<-salarioBase+pagasExtras+complementos+otrosConcpetosRetributivos
+	salarioBruto<-salarioBase+pagasExtras+complementos+otrosConceptosRetributivos
 	deducciones <- IRP+SeguridadSocial
+	salarioNeto <- salarioBruto - deducciones
 	# Salida
 	Escribir(salarioBruto, salarioNeto)
 FinAlgoritmo
