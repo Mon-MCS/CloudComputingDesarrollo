@@ -1,4 +1,4 @@
-n = int(input("Introduzca el número de enteros de la lista: "))
+n = int(input("Introduzca el número de elementos de la lista: "))
 listaPalabras = []
 
 for i in range(n):
