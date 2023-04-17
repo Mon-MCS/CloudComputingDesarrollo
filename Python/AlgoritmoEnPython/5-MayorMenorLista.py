@@ -11,4 +11,4 @@ listaOrdenada = sorted(listaEnteros)
 menorNumero = listaOrdenada[0]
 mayorNumero = listaOrdenada[-1]
 
-print(f"El menor y el mayor elemento de lisa introducida son {menorNumero} y {mayorNumero}, respectivamente")
+print(f"El menor y el mayor elemento de la lista introducida son {menorNumero} y {mayorNumero}, respectivamente")

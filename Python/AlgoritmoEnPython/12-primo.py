@@ -8,6 +8,7 @@ while numero >= 2:
     else:
         numero -= 1
 if primo == True:
-    print(f"El número {posiblePrimo} es primo")
+    resultado = f"El número {posiblePrimo} es primo"
 else:
-    print(f"El número {posiblePrimo} no es primo, pues {numero} es un divisor del mismo")
+    resultado = f"El número {posiblePrimo} no es primo, pues {numero} es un divisor del mismo"
+print(resultado)

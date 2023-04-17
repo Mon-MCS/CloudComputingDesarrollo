@@ -67,7 +67,7 @@ Algoritmo CalculoDNI
 	DNI <- leer()
 	tablaLetrasDNI <- "TRWAGMYFPDXBNJZSQVHLCKE"
 	# Proceso
-	Si DNI es menor o igual que 99999999
+	Si DNI es menor o igual que 99999999 # Es decir que tenga 8 dígitos
 		resultadoResto <- DNI mod 23 #mod es el resultado de dividir
 		resultado <- tablaLetrasDNI[resultadoResto]
 	Sino
@@ -461,7 +461,8 @@ Entrada: ``año``
 
 Proceso:
 
-- Si al dividir ``año`` entre 4  su resto es 0 y al dividir ``año`` entre 100 su resto es diferente a 0, entonces asignar a ``resultado`` "es bisiesto".
+- Si al dividir ``año`` entre 4  su resto es 0 y al dividir ``año`` entre 100 su resto es diferente a 0, entonces asignar a ``resultado`` "es bisiesto". 
+- Si al dividir ``año`` entre 400 su resto es 0 entonces asignar a ``resultado`` "es bisiesto".
 - En caso contrario, asignar a ``resultado`` "no es bisiesto"
 
 Salida: Escribir(``resultado``)
@@ -474,6 +475,8 @@ Algoritmo Bisiesto
 	año <- Leer()
 	# Proceso
 	Si año mod 4 es igual a 0 y año mod 100 es diferente a 0 Entonces 
+		resultado <- "es bisiesto"
+	Si año mod 400 es igual a 0 Entonces
 		resultado <- "es bisiesto"
 	Sino
 		resultado <- "no es bisiesto"

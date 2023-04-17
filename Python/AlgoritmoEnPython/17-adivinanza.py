@@ -8,4 +8,5 @@ while numeroAleatorio != numero:
     elif numero < numeroAleatorio:
         print("El número introducido es menor que el número aleatorio")
     else:
-        print("¡Enhorabuena ha acertado el número aleatorio!")
+        resultado = "¡Enhorabuena ha acertado el número aleatorio!"
+print(resultado)

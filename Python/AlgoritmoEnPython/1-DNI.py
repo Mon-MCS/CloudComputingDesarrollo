@@ -1,5 +1,3 @@
-DNI = input("Introduzca los números del DNI: ")
-
 def verificacion_DNI(dni):
     if len(dni) == 8:
         try:
@@ -12,10 +10,11 @@ def verificacion_DNI(dni):
             tablaLetrasDNI = "TRWAGMYFPDXBNJZSQVHLCKE"
             resultadoResto = dni % 23 
             letra = tablaLetrasDNI[resultadoResto]  
-            return print(f"La letra asociada al número de DNI {dni} es {letra}")
+            return f"La letra asociada al número de DNI {dni} es {letra}"
     else:
-        return print("El DNI introducido es inválido")
+        return "El DNI introducido es inválido"
 
-verificacion_DNI(DNI)
-        
+DNI = input("Introduzca los números del DNI: ")
+letra = verificacion_DNI(DNI)
+print(letra)
             
