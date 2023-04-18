@@ -1,0 +1,28 @@
+[
+    {
+        "nombre":"Juan",
+        "edad":30,
+        "estadoCivil":"Soltero",
+        "pasatiempos":["leer","viajar"],
+        "estudiando":true,
+        "trabajando":null,
+        "direccion": {
+            "calle":"Calle Mayor",
+            "numero":1,
+            "ciudad":"Madrid"
+        }
+    },
+    {
+        "nombre":"Pedro",
+        "edad":25,
+        "estadoCivil":"Soltero",
+        "pasatiempos":["bailar","viajar"],
+        "estudiando":true,
+        "trabajando":true,
+        "direccion": {
+            "calle":"Calle Del Soto",
+            "numero":13,
+            "ciudad":"Madrid"
+        }
+    }
+]
