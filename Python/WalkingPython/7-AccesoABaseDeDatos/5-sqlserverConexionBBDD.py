@@ -1,6 +1,6 @@
 import pyodbc 
 
-server = '(localdb)\ProjectsV13'
+server = 'DESKTOP-65FBS5V\SQLEXPRESS'
 database = 'bikerentdb' 
 username = 'developer' 
 password = 'P4$$w0rd' 
