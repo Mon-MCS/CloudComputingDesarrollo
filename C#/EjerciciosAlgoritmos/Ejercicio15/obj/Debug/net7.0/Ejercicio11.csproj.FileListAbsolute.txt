@@ -1,0 +1,15 @@
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.csproj.AssemblyReference.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.AssemblyInfo.cs
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\bin\Debug\net7.0\Ejercicio11.exe
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\bin\Debug\net7.0\Ejercicio11.deps.json
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\bin\Debug\net7.0\Ejercicio11.runtimeconfig.json
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\bin\Debug\net7.0\Ejercicio11.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\bin\Debug\net7.0\Ejercicio11.pdb
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\refint\Ejercicio11.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.pdb
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\Ejercicio11.genruntimeconfig.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\Ejercicio15\obj\Debug\net7.0\ref\Ejercicio11.dll

@@ -1,0 +1,15 @@
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\bin\Debug\net7.0\EjerciciosAlgoritmos.exe
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\bin\Debug\net7.0\EjerciciosAlgoritmos.deps.json
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\bin\Debug\net7.0\EjerciciosAlgoritmos.runtimeconfig.json
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\bin\Debug\net7.0\EjerciciosAlgoritmos.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\bin\Debug\net7.0\EjerciciosAlgoritmos.pdb
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.csproj.AssemblyReference.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.AssemblyInfoInputs.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.AssemblyInfo.cs
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\refint\EjerciciosAlgoritmos.dll
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.pdb
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\EjerciciosAlgoritmos.genruntimeconfig.cache
+C:\Cloud_computing_desarrollo\CloudComputingDesarrollo\C#\EjerciciosAlgoritmos\obj\Debug\net7.0\ref\EjerciciosAlgoritmos.dll
